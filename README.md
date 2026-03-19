@@ -27,5 +27,5 @@ The algorithm works by:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nune15/python/blob/main/Fadeev_inverse.py
+git clone https://github.com/nunedally4/fadeev-matrix-inversion/main/Fadeev_inverse.py
 cd your-repo-name
