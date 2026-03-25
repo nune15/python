@@ -28,4 +28,4 @@ The algorithm works by:
 
 ```bash
 git clone https://github.com/nunedally4/fadeev-matrix-inversion/main/Fadeev_inverse.py
-cd your-repo-name
+cd fadeev-matrix-inversion
